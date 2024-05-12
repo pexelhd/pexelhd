@@ -3,7 +3,7 @@
 - 🌱 As a second year student of Computer Engineering I'm currently learning on Computer Languages specifically in "JavaScript"
 - 💞️ Honestly I'm not that good enough on programming and I'm looking for somenone who can teach me and be my mentor on any computer languages like JavaScript, Python, C++, Ruby, Swift, HTML/CSS 
 - 📫 You can reach by this email cpeter.ustp29@gmail.com
-- 😄 It's up to you it doesn't really matter to me
+- 😄 Pronouns: It's up to you it doesn't really matter to me
 - ⚡ Fun fact about me I usually take a bath three times a week HAHAHAH LOL
  
 <!---
