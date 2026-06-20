@@ -1,12 +1,12 @@
-- 👋 Hi, I’m Peter Justine Canico a Filipino Citizen living in Cagayan de Oro City. A second year college student enrolled in Bachelor of Science in Computer Engineering. This is my account named pexelhd.
-- 👀 I'm really interested in editing and programming.
-- 🌱 As a second year student of Computer Engineering I'm currently learning on Computer Languages specifically in "JavaScript"
-- 💞️ Honestly I'm not that good enough on programming and I'm looking for somenone who can teach me and be my mentor on any computer languages like JavaScript, Python, C++, Ruby, Swift, HTML/CSS 
-- 📫 You can reach me by this email cpeter.ustp29@gmail.com
-- 😄 Pronouns: It's up to you it doesn't really matter to me
-- ⚡ Fun fact about me I usually take a bath three times a week HAHAHAH LOL
- 
-<!---
-pexelhd/pexelhd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 👋 Hi, I'm Peter Justine Canico
+
+I'm a Filipino, based in Cagayan de Oro City, and a recent **BS Computer Engineering** graduate passionate about programming and building things that work.
+
+- 👀 **Interests:** software development, editing, and learning new tech
+- 🌱 **Currently learning:** building full-stack projects with React, Node.js, and PostgreSQL
+- 💞️ **Looking for:** opportunities to grow as a developer, and mentors in JavaScript, Python, C++, Ruby, Swift, or HTML/CSS — always open to learning from people more experienced than me
+- 🚀 **Featured project:** a [Multi-Tenant Task Manager](https://github.com/pexelhd/multi-tenant-task-manager) with role-based access control, Keycloak SSO, and an AI-powered chat assistant
+- 🌐 **Portfolio:** [my-portfolio-rouge-rho-54.vercel.app](https://my-portfolio-rouge-rho-54.vercel.app)
+- 📫 **Reach me:** peterjust1998@gmail.com
+- 😄 **Pronouns:** doesn't matter to me, use whatever's comfortable
+- ⚡ **Fun fact:** I take a bath three times a week — don't judge, it works for me 😄
