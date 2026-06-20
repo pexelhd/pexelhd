@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Peter Justine Canico
 
-I'm a Filipino, based in Cagayan de Oro City, and a recent **BS Computer Engineering** graduate passionate about programming and building things that work.
+I'm a Filipino, based in Cagayan de Oro City, aspiring developer with a Computer Engineering background passionate about programming and building things that work.
 
 - 👀 **Interests:** software development, editing, and learning new tech
 - 🌱 **Currently learning:** building full-stack projects with React, Node.js, and PostgreSQL
